@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from captacity import add_captions
+from captacity_repo import add_captions
 import sys
 
 def main():
